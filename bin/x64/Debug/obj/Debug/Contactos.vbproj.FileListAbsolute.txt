@@ -1,0 +1,3 @@
+C:\Users\cca\Desktop\Contactos\bin\x64\Debug\obj\Debug\Contactos.vbprojAssemblyReference.cache
+C:\Users\cca\Desktop\Contactos\bin\x64\Debug\obj\Debug\Contactos.frm_contactos.resources
+C:\Users\cca\Desktop\Contactos\bin\x64\Debug\obj\Debug\Contactos.vbproj.GenerateResource.cache

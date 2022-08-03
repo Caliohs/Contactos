@@ -1,0 +1,13 @@
+C:\Users\cca\Desktop\Contactos\bin\x64\Debug\Contactos.exe.config
+C:\Users\cca\Desktop\Contactos\bin\x64\Debug\Contactos.exe
+C:\Users\cca\Desktop\Contactos\bin\x64\Debug\Contactos.pdb
+C:\Users\cca\Desktop\Contactos\bin\x64\Debug\Contactos.xml
+C:\Users\cca\Desktop\Contactos\obj\x64\Debug\Contactos.vbprojAssemblyReference.cache
+C:\Users\cca\Desktop\Contactos\obj\x64\Debug\Contactos.frm_contactos.resources
+C:\Users\cca\Desktop\Contactos\obj\x64\Debug\Contactos.Resources.resources
+C:\Users\cca\Desktop\Contactos\obj\x64\Debug\Contactos.vbproj.GenerateResource.cache
+C:\Users\cca\Desktop\Contactos\obj\x64\Debug\Contactos.vbproj.CoreCompileInputs.cache
+C:\Users\cca\Desktop\Contactos\obj\x64\Debug\Contactos.exe
+C:\Users\cca\Desktop\Contactos\obj\x64\Debug\Contactos.xml
+C:\Users\cca\Desktop\Contactos\obj\x64\Debug\Contactos.pdb
+C:\Users\cca\Desktop\Contactos\bin\x64\Debug\contactos.accdb
